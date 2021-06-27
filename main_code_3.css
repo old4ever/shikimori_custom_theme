@@ -549,6 +549,7 @@
   }
   
   .p-profiles-show .profile-content .c-right .cc-2a {
+	display: none;		   
     margin-bottom: 0px !important;
   }
   
