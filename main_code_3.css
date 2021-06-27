@@ -549,18 +549,18 @@
   }
   
   .p-profiles-show .profile-content .c-right .cc-2a {
-    /* display: none; */
-    visibility: hidden;
+    display: none; 
+    /*visibility: hidden;*/
     margin-bottom: 0px !important;
   }
-   .p-profiles-show .profile-content .c-right .cc-2a:after {
+   /* .p-profiles-show .profile-content .c-right .cc-2a:after {
     visibility: visible;
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    background: url(https://i.imgur.com/rS8RDNY.png) center / contain no-repeat;
+    background: url(https://i.imgur.com/rS8RDNY.png) center / contain no-repeat; */
   }
   
   .p-profiles .profile-head .c-info .c-additionals div a {
