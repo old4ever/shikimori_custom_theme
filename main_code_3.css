@@ -549,8 +549,8 @@
   }
   
   .p-profiles-show .profile-content .c-right .cc-2a {
-	/* display: none; */	
-	visibility: hidden;
+    /* display: none; */
+    visibility: hidden;
     margin-bottom: 0px !important;
   }
    .p-profiles-show .profile-content .c-right .cc-2a:after {
